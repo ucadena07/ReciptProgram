@@ -1,0 +1,13 @@
+D:\c#\SimulatedOrderReceipt\bin\Debug\netcoreapp3.1\SimulatedOrderReceipt.exe
+D:\c#\SimulatedOrderReceipt\bin\Debug\netcoreapp3.1\SimulatedOrderReceipt.deps.json
+D:\c#\SimulatedOrderReceipt\bin\Debug\netcoreapp3.1\SimulatedOrderReceipt.runtimeconfig.json
+D:\c#\SimulatedOrderReceipt\bin\Debug\netcoreapp3.1\SimulatedOrderReceipt.runtimeconfig.dev.json
+D:\c#\SimulatedOrderReceipt\bin\Debug\netcoreapp3.1\SimulatedOrderReceipt.dll
+D:\c#\SimulatedOrderReceipt\bin\Debug\netcoreapp3.1\SimulatedOrderReceipt.pdb
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.csprojAssemblyReference.cache
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.csproj.CoreCompileInputs.cache
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.AssemblyInfoInputs.cache
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.AssemblyInfo.cs
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.dll
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.pdb
+D:\c#\SimulatedOrderReceipt\obj\Debug\netcoreapp3.1\SimulatedOrderReceipt.genruntimeconfig.cache
